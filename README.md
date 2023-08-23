@@ -1,3 +1,6 @@
+![Screenshot_1692757789](https://github.com/oguzhanyavass/PatikaStore/assets/120180879/04730520-e7d2-4948-809e-5d1d5df2b0f1)
+![Screenshot_1692757769](https://github.com/oguzhanyavass/PatikaStore/assets/120180879/ba949fa1-0916-48d6-8303-9cb0450c4d77)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
